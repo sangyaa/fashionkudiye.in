@@ -33,7 +33,7 @@ suit1 = [
     "Suits Collection",
     "3 pc Suit Collection [Kurti + sharara + Dupatta]<tag style='display:none;'>suit set green colou setr with Gotta Patti Work quality high</tag>",
     "⭐⭐⭐⭐⭐ <bb style='font-size:14px;background-color:#B12720;color:#fff;padding:3px 10px 3px 10px;'>Deal of the Day</bb>",
-    "/fashionkudiye.in/images/suit/pr10/m.jpg",
+    "/fashionkudiye.in/images/Suit/pr10/m.jpg",
     "₹879.00  <font color='red' size='2px'><s>₹1200</s></font> " // add 70
 ];
 suit2 = [
