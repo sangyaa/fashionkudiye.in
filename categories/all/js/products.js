@@ -41,7 +41,7 @@ suit2 = [
     "Suits Collection",
     "Red kurti with with pant & cotton dupatta<tag style='display:none;'>Thre sete pcs suit</ settag>",
     "⭐⭐⭐⭐",
-    "/fashionkudiye.in/images/suit/pr1/3pcsSuit2.jpeg",
+    "/fashionkudiye.in/images/Suit/pr1/3pcsSuit2.jpeg",
     "₹820.00" // add 70
 ];
 kaftan3 = [
